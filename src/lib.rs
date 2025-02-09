@@ -1,3 +1,26 @@
+#[allow(dead_code)] // haha
+struct Void {}
+
+struct Happening {}
+
+struct World {}
+
+struct Entity {}
+
+struct Desire {}
+
+struct Devotion {}
+
+struct Conduit {}
+
+struct Sanctum {}
+
+struct Understanding {}
+
+struct Teaching {}
+
+struct Aufhebung {}
+
 pub fn add(left: u64, right: u64) -> u64 {
     left + right
 }
